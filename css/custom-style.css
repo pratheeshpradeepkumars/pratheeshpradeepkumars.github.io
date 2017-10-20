@@ -1,15 +1,14 @@
-
 body {
-    background: black;
-    color: white;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+  background: black;
+  color: white;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
 }
-.middle-content {
-	margin-top: 20%;
-    margin-right: auto;
-    margin-bottom: 0;
-    margin-left: auto;
+body .middle-content {
+  margin-top: 20%;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left: auto;
 }
