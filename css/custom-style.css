@@ -12,3 +12,9 @@ body .middle-content {
   margin-bottom: 0;
   margin-left: auto;
 }
+body .mg-tp {
+  margin-top: 15px;
+}
+body .green-1 {
+  color: #00b900;
+}
